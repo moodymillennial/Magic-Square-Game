@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Joshua Stromberg CSCI 140
+// Joshua Stromberg
 // Input: User enters 9 numbers, each separated by a space, then at the end if it's not magic Y or N
 // Output: A text file with printed screen user sees, if the square is magic, a confirmation if the square
 //         is magic or not, the input of the user placed in a square, and a confirmation of whether
